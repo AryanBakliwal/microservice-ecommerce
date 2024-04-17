@@ -1,0 +1,14 @@
+#customer
+/customer/node_modules
+/customer/.env
+
+#products
+/products/node_modules
+/products/.env
+
+#orders
+/orders/node_modules
+/orders/.env
+
+#gateway
+/gateway/node_modules
